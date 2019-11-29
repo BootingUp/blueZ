@@ -1,4 +1,4 @@
-# blueZ-5.4
+# blueZ-5.45
 
 官网： [http://www.bluez.org/](http://www.bluez.org/) 
 
